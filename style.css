@@ -1,0 +1,42 @@
+header{
+    height: 100vh;
+    background-color: black;
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-size{
+    max-height: 15vh;
+}
+
+.img-size-2{
+    max-height: 7vh;
+}
+
+.center-already-damnit{
+    display: flex!important;
+    justify-content: center;
+}
+
+.d-flex-button{
+    display: flex!important;
+}
+
+.green-idk{
+    color: green;
+}
+
+.border-knight{
+    border: gray solid 1px;
+    box-shadow: 2em;
+}
+
+.big-knight{
+    height: 50vh;
+    padding: 1em;
+}
+
+.jerber{
+    display: flex;
+}
